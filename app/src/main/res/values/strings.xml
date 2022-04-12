@@ -8,4 +8,6 @@
     <string name="_07_04_1995">07/04/1995</string>
     <string name="_1440">1440</string>
     <string name="in_minutes_till_date">In Minutes till date</string>
+    <string name="in_days">IN DAYS</string>
+    <string name="in_days_till_date">In Days till date</string>
 </resources>
